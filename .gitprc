@@ -2,8 +2,7 @@ default:
     README.md
     LICENSE
 projects:
-    project1
+    project1:
         project1/
-    project2
+    project2:
         project2/
-    
